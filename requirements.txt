@@ -1,3 +1,4 @@
 streamlit
+streamlit-mic-recorder
 google-genai
 supabase
